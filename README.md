@@ -1,7 +1,3 @@
-# 完整可直接使用的 `README.md` 代码
-复制下方**全部内容**，新建文件命名为 `README.md` 粘贴即可，纯标准Markdown格式，适配你的项目：
-
-```markdown
 # A TinyML System for Early Screening of CHD on ESP32
 
 This repository contains the engineering implementation for our paper, *"A TinyML System for Early Screening of Congenital Heart Disease (CHD) on ESP32"*.
