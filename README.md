@@ -84,4 +84,3 @@ Place these files in the `model/` directory to run inference.
 For inquiries about datasets, commercial licensing, or embedded deployment, please contact our commercial partner:
 
 **Suzhou Ruogu Xinsheng Technology Co., Ltd.**
-```
